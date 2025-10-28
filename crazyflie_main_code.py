@@ -1,3 +1,5 @@
+#turning direction and speed, should be changed depending on the layout of arena
+
 import logging
 import time
 import random
@@ -509,4 +511,5 @@ def main():
 print("Flight sequence")
 
 if __name__ == '__main__':
+
     main()
